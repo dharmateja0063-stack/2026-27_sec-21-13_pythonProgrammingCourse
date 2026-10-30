@@ -1,0 +1,10 @@
+a = "10"
+b = int(a)
+c = float(a)
+d = str(b)
+print(b)
+print(c)
+print(d)
+print(type(b))
+print(type(c))
+print(type(d))
